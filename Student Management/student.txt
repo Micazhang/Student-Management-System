@@ -1,0 +1,7 @@
+"Stu_Num"	"Stu_FName"	"Stu_LName"	"Stu_DOB"	"Stu_Join_Date"	"Stu_Pho_Num"	"Stu_Email"	"Stu_Add"	"Prt_Name"	"Stu_Rel"	"Prt_Pho_Num"	"Prt_Email"
+"20170401"	"Ziad"	"Kobti"	"1980-2-5"	"2017-3-1"	"123-456-7890"	"Kobti@uwindsor.ca"	"267 Bridge Ave"	"Alice Kobti"	"mother"	"123-890-4567"	"Alice@gmail.com"
+"20170402"	"Mica"	"Zhang"	"1993-4-1"	"2014-6-10"	"227-433-4322"	"Mica@uwindsor.ca"	"268 Bridge Ave"	"Hai Zhang"	"father"	"321-432-2344"	"Hai@gmail.com"
+"20170403"	"Julia"	"Zhu"	"1993-1-25"	"2013-6-1"	"231-234-4223"	"Julia@uwindsor.ca"	"269 Bridge Ave"	"Qi Zhu"	"father"	"233-423-4234"	"Qi@gmail.com"
+"20170404"	"Min"	"Guo"	"1990-10-24"	"2016-11-23"	"324-244-4636"	"Min@uwindsor,ca"	"270 Bridge Ave"	"Hao Guo"	"mother"	"766-556-8765"	"Hao@gmail.com"
+"20170405"	"Shaun"	"Club"	"1980-6-1"	"2000-3-1"	"757-353-7567"	"Club@uwindsor.ca"	"271 Bridge Ave"	"Tom Club"	"father"	"743-755-3254"	"Tom@gmail.com"
+"20170406"	"Fuhao"	"Xie"	"1990-1-1"	"2017-4-1"	"456-789-123"	"fuhao@gmail.com"	"777 Bridge Ave"	""	""	""	""

@@ -1,0 +1,6 @@
+"Class_ID"	"Class_Weekday"	"Class_Time"	"Class_Location"	"Class_Level"	"Instructor_Name"
+"001"	"Monday"	"05:00 PM"	"Erie Hall"	"beginner-level"	"Stephanos"
+"002"	"Tuesday"	"10:00 AM"	"Education Building"	"intermediate-level"	"Stephanos"
+"003"	"Wednesday"	"02:00 PM"	"Essex Hall"	"beginner-level"	"Stephanos"
+"004"	"Thursday"	"06:00 PM"	"Odette Hall"	"advanced-level"	"Stephanos"
+"005"	"Friday"	"09:00 AM"	"GYM"	"beginner-level"	"Stephanos"
